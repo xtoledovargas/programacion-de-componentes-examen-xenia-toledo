@@ -25,5 +25,4 @@ El objetivo del examen es demostrar dominio en:
 
 ---
 
-## 📁 2. Estructura del proyecto
 

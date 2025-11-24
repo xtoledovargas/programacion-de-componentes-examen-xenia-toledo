@@ -1,16 +1,29 @@
-# React + Vite
+# Tienda React – Examen Final Programación de Componentes
+Este proyecto corresponde al examen final de la asignatura **Programación de Componentes**, desarrollado en React, Firebase y Cordova para generar aplicación móvil (APK).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+El objetivo del examen es demostrar dominio en:
+- Componentes padre–hijo e hijo–padre.
+- Manejo de `props`, `state`, eventos y renderizado mediante `.map()`.
+- Formularios con validaciones.
+- Conexión y uso básico de Firebase.
+- Estilos mediante Bootstrap.
+- Compilación a APK con Apache Cordova.
+- Subida del repositorio a GitHub y despliegue en Netlify.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  1. Tecnologías utilizadas
+- **React 18**
+- **Cordova Android**
+- **Firebase**
+  - Authentication
+  - Firestore Database
+  - Storage
+- **Bootstrap 5**
+- **Netlify (Despliegue Web)**
+- **Android Studio (firma del APK)**
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📁 2. Estructura del proyecto
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
